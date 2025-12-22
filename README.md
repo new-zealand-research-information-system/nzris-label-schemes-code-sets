@@ -32,14 +32,11 @@ Files for each of the label schemes are included in this repository.  The first 
 ## ANZSRC  
 Label Scheme files are provided for ANZSRC codes.  Further information can be found in Stats NZ’s classification management system Aria as follows:
 
-[Field of Research V2]([external link](https://aria.stats.govt.nz/aria/#ClassificationView:uri=http://stats.govt.nz/cms/ClassificationVersion/d3TYSTsmz2uc8CY1))
-
-[Socio-Economic Objective V2]([external link](https://aria.stats.govt.nz/aria/#ClassificationView:uri=http://stats.govt.nz/cms/ClassificationVersion/d1iJyaEzjWHJiRej))
-
-[Type of Activity V2]([external link](https://aria.stats.govt.nz/aria/#ClassificationView:uri=http://stats.govt.nz/cms/ClassificationVersion/Wg615FKY3OhnyOzL))
+ [Field of Research V2](https://aria.stats.govt.nz/aria/#ClassificationView:uri=http://stats.govt.nz/cms/ClassificationVersion/d3TYSTsmz2uc8CY1)  
+ [Socio-Economic Objective V2](https://aria.stats.govt.nz/aria/#ClassificationView:uri=http://stats.govt.nz/cms/ClassificationVersion/d1iJyaEzjWHJiRej)  
+ [Type of Activity V2](https://aria.stats.govt.nz/aria/#ClassificationView:uri=http://stats.govt.nz/cms/ClassificationVersion/Wg615FKY3OhnyOzL)
 
 Differences between the previous and new versions (also on Aria):
 
-[Field of Research V1-2]([external link](https://aria.stats.govt.nz/aria/#ConcordanceView:uri=http://stats.govt.nz/cms/ConcordanceVersion/Z5oCDBWNUDccW089))
-
-[Socio Economic Activity V1-2]([external link](https://aria.stats.govt.nz/aria/#ConcordanceView:uri=http://stats.govt.nz/cms/ConcordanceVersion/DUfQ3q5mjGcCH4tU))
+[Field of Research V1-2](https://aria.stats.govt.nz/aria/#ConcordanceView:uri=http://stats.govt.nz/cms/ConcordanceVersion/Z5oCDBWNUDccW089)  
+[Socio Economic Activity V1-2](https://aria.stats.govt.nz/aria/#ConcordanceView:uri=http://stats.govt.nz/cms/ConcordanceVersion/DUfQ3q5mjGcCH4tU)  
