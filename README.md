@@ -23,7 +23,7 @@ and two Socio-Economic Objectives 2020 codes:
 * *260205 Softwood plantations (30%)*  
 * *260506 Kiwifruit (70%)*  
 
-This same format applies to all label schemes and all label schemes can be entered in the same field as a string.  For example Strategic Programme information would be added in the same format:  
+This same format applies to all label schemes and all label schemes can be entered in the same field as a string.  For example Strategic Programme information would be added as follows:  
   
 310803 Plant cell and molecular biology|for-2020|25;310804 Plant developmental and reproductive biology|for-2020|50;310806 Plant physiology|for-2020|25;260205 Softwood plantations|seo-2020|30;260506 Kiwifruit|seo-2020|70 **;CoRE Bio Protection Research Centre|c-strategic-programme|**  
 
