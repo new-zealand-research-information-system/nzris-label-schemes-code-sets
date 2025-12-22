@@ -1,6 +1,6 @@
 # NZRIS Label Schemes & Code Sets  
 
-There are several label schemes available in NZRIS allowing for categorisation of data. All labels are captured in a single field on the grants-metadata record. The format of the field is as follows:  
+There are several label schemes available in NZRIS allowing for categorisation of data. All labels are captured in a single field per record in the _grants.csv file. The format of the field is as follows:  
   
 •	**Label Value** (e.g. 220302 Electronic information storage and retrieval services)\
 •	**pipe delimiter**\
