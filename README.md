@@ -1,4 +1,5 @@
 # NZRIS Label Schemes & Code Sets  
+**Shifted to https://github.com/new-zealand-research-information-system/nzris-data-specifications/tree/master/code-sets-label-schemes**
 
 There are several label schemes available in NZRIS allowing for categorisation of data. All labels are captured in a single field per record in the _grants.csv file. The format of the field is as follows:  
   
